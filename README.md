@@ -15,3 +15,4 @@ Esse repositório contém um conjunto de códigos de cursos ou mini-projetos de 
 
 - [deep_learning_specialization](https://github.com/jessicalfr/data_science_studies/tree/master/deep_learning_specialization): Códigos da "[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)" do DeepLearning.AI no Coursera.
     - [1_neural_networks_and_deep_learning](https://github.com/jessicalfr/data_science_studies/tree/master/deep_learning_specialization/1_neural_networks_and_deep_learning): Curso "Neural Networks and Deep Learning"
+    - [1_improving_neural_networks](https://github.com/jessicalfr/data_science_studies/tree/master/deep_learning_specialization/2_improving_neural_networks): Curso "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
